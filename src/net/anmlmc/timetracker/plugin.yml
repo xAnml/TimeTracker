@@ -1,0 +1,7 @@
+name: TimeTracker
+main: net.anmlmc.timetracker.TimeTracker
+version: 1.0
+author: Anml
+commands:
+   playtime:
+   gplaytime:
